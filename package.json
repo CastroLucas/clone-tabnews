@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Project to study and test new things",
+  "homepage": "https://github.com/CastroLucas/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/CastroLucas/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CastroLucas/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "Lucas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "dependencies": {
+    "next": "^16.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
